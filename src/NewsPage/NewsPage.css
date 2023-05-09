@@ -1,0 +1,32 @@
+@import "https://fonts.google.com/icons?selected=Material%20Symbols%20Outlined%3Abookmark%3AFILL%400%3Bwght%40400%3BGRAD%400%3Bopsz%4048";
+
+.news-container {
+  width: 30vw;
+  margin-bottom: 50px;
+}
+
+.news-card-img {
+  width: 100%;
+  height: 25vh;
+}
+
+.news-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.news-bookmark {
+  display: flex;
+  justify-content: space-between;
+}
+
+.news-add {
+  cursor: pointer;
+}

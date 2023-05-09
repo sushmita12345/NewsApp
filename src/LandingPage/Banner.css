@@ -1,0 +1,47 @@
+.banner-img {
+  height: 87.5vh;
+  width: 100%;
+  /* margin-top: 5px; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.banner-cont-container {
+  position: absolute;
+  top: 200px;
+  left: 450px;
+}
+
+.banner-card {
+  width: 35vw;
+  text-align: center;
+}
+
+.banner-cl {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.banner-hd {
+  margin-top: 30px;
+  font-size: 58px;
+}
+
+.banner-p {
+  margin-top: 20px;
+  font-size: 15px;
+  word-spacing: 1px;
+  line-height: 25px;
+}
+
+.banner-btn {
+  margin-top: 20px;
+  padding: 15px;
+  width: 12vw;
+  border-radius: 30px;
+  border: 1px dotted black;
+  font-size: 16px;
+  background-color: #74b9c7;
+  font-weight: 200;
+}
